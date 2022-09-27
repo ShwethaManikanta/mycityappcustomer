@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "716770409705",
+    "project_id": "my-city-app-50d66",
+    "storage_bucket": "my-city-app-50d66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716770409705:android:f2e0f3d921759af9308478",
+        "android_client_info": {
+          "package_name": "com.mycity.mycityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716770409705-75bnkd35lbharo91pokp521riuopaeh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycity.mycityapp",
+            "certificate_hash": "3a4f72af6294aa5abd5857b957901029004ac1e7"
+          }
+        },
+        {
+          "client_id": "716770409705-jmvgjf70jsj4kg022rq9kc17ba3bfdkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUcEQwaLRKb9k5PGL2Fbl3MXYbRbKOFvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716770409705-jmvgjf70jsj4kg022rq9kc17ba3bfdkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
